@@ -4,7 +4,7 @@
 
 ---
 
-## 💣 What the Hell is This?
+## 💣 What is This?
 
 A collection of hardcore, low-level tech meant for people who don't want to wait 5 seconds for a query to return or write 10 different scripts just to get a single transaction. We're here to strip blockchain data down to the bone and give developers the raw power they need.
 
